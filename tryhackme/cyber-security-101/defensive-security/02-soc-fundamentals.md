@@ -84,4 +84,4 @@ A big part of L1 work is telling these apart quickly and accurately.
 `SOC` · `L1/L2/L3` · `Triage` · `5 W's` · `SIEM` · `EDR` · `True positive` · `False positive`
 
 ## 💭 My takeaway
-_Add a line in your own words. Tip: compare it to an IT support ticket queue you already know._
+A SOC alert queue works a lot like the IT support ticket queue I already handle every day: triage what comes in, close what's harmless, escalate what's real. L1 SOC analyst is the role I'm aiming for first.

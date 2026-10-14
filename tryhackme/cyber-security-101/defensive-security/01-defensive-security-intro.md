@@ -72,4 +72,4 @@ That's the whole blue team loop in miniature: alert → investigate → respond.
 `Blue team` · `Red team` · `SOC` · `SIEM` · `Threat intelligence` · `DFIR` · `Malware analysis`
 
 ## 💭 My takeaway
-_Add a line in your own words: what clicked for you in this room?_
+Prevention alone isn't enough. The blue team assumes something will eventually get through and builds ways to catch it fast. Walking through the lab's flow (alert → check the IP → block it at the firewall) made the whole job click for me.

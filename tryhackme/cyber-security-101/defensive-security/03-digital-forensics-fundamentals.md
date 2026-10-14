@@ -78,4 +78,4 @@ exiftool photo.jpg
 `Chain of custody` · `Write blocker` · `Disk image` · `Memory image` · `Metadata` · `exiftool` · `pdfinfo`
 
 ## 💭 My takeaway
-_Add a line in your own words._
+The biggest rule is to never work on the original: make an image first and keep the chain of custody clean. I was surprised how much a single photo's metadata can reveal, even the location where it was taken.

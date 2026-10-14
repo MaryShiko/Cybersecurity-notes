@@ -100,4 +100,4 @@ grep '" 404 ' access.log
 `Event Viewer` · `4624` · `4625` · `access.log` · `SQL injection` · `Path traversal` · `grep` · `uniq -c`
 
 ## 💭 My takeaway
-_Add a line in your own words._
+Logs are the evidence trail. I already use logs to troubleshoot at work, and now I'm learning to read them for attack patterns, like a string of 4625 failed logons followed by a 4624 success from the same source.

@@ -94,4 +94,4 @@ Same process, packaged differently. Know both for Security+.
 `Event` · `Incident` · `Severity` · `PICERL` · `NIST IR lifecycle` · `Containment` · `Playbook` · `Runbook`
 
 ## 💭 My takeaway
-_Add a line in your own words. Tip: think of a real outage or issue you handled at work and map it to these steps._
+Incident response is a process, not a panic. Working in healthcare IT, I can see why containment matters so much: when clinical systems are involved, stopping the spread fast protects patients as well as data.
